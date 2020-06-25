@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId = 'space.endorfina.idle'
+        applicationId = 'dev.endorfina.idle'
         minSdkVersion 14
         targetSdkVersion 28
         externalNativeBuild {
