@@ -9,7 +9,7 @@ android {
         targetSdkVersion 28
         externalNativeBuild {
             cmake {
-                arguments '-DANDROID_STL=c++_static', '-DMAKESHIFT_UNITY=ON'
+                arguments '-DANDROID_STL=c++_static'
             }
         }
     }
