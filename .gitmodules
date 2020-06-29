@@ -1,6 +1,6 @@
 [submodule "app/src/main/freetype"]
-	path = app/src/main/freetype
+	path = app/freetype
 	url = git://git.sv.nongnu.org/freetype/freetype2.git
 [submodule "idle"]
-	path = idle
+	path = app/idle
 	url = https://github.com/endorfina/idle.git
